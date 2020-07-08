@@ -1,10 +1,11 @@
 #title{
     text-align: center;
     color: #000000;
+    font-size: 3vw;
 }
 
 #main{
-    background-color: aliceblue;
+    background-color: whitesmoke;
 }
 
 #image{
@@ -12,9 +13,49 @@
     height: 30vw;
     display: block;
     margin: auto;
+    vertical-align: top;
 }
 
-#img-caption{
+#img_div{
+    margin-left: 6em;
+    margin-right: 6em;
+}
+
+#img_caption{
+    padding-top: 10px;;
     color: black;
-    font-size: 20px;
+    font-size: 10px;
+    text-align: center;
+}
+
+#Tribute_info{
+    color: black;
+    font-size: 15px;
+    text-align: left;
+    margin-left: 20vw;
+    margin-right: 20vw;
+}
+
+#FactsAndInfo{
+}
+
+h3{
+    margin-top: 5vw;
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+    margin-top: 5vw;
+    margin-bottom: 5vw;
+    margin-left: 20vw;
+    margin-right: 20vw
+}
+
+li{
+    margin-top: 1vw;
+    margin-bottom: 1vw;
+    margin-right: 25vw;
+    margin-left: 25vw;
+    font-size: 18px;
 }
